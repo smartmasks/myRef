@@ -31,3 +31,9 @@ https://www.livemint.com/Auto/37uNFb7L9OxVy5eAqQTsSI/Maruti-Suzuki-building-webs
 #Attendance app :
  
    1.https://github.com/vipul-jain/employee-attendance
+
+
+
+#LanGuru :-
+  - https://github.com/mlabouardy/dialogflow-angular5
+  - 
