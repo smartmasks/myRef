@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Page-1" id="cUVQX13GJ6ZkemoAQel4">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="480" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-2" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-6">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-3" value="Shortlink Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-6">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-8" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-7">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-9" value="Shortlink Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-7">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-11" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-10">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-12" value="Shortlink Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-10">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-15" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-14">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-16" value="Shortlink Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-14">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-18" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-17">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-19" value="Shortlink Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-17">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-21" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-20">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-22" value="Shortlink Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dBNrC0CsWkUo4_ppWMCl-20">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dBNrC0CsWkUo4_ppWMCl-23" value="DoLink Provided Services" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="130" width="210" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
